@@ -81,14 +81,6 @@
         "10": {
             "name": "Airbus a380-800",
             "liveries": [
-                {
-                    "name": "Stratus Airways A380-800",
-                    "texture": [
-                        "/models/aircraft/premium/a380/specular.jpg",
-                        "https://i.ibb.co/jwQ8QTp/Stratus-A380-800.png"
-                    ],
-                    "credits": "Jeffa"
-                }
             ],
             "labels": [
                 "Specular shader",
@@ -155,13 +147,6 @@
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
-                {
-                    "name": "Stratus Airways Concorde",
-                    "texture": [
-                        "https://i.ibb.co/G2X9Mcf/Stratus-Concorde.png"
-                    ],
-                    "credits": "Jeffa"
-                }
             ],
             "labels": [
                 "Texture"
@@ -194,12 +179,12 @@
             "name": "Airbus a350-900",
             "liveries": [
                 {
-                    "name": "Stratus Airways A350-900",
+                    "name": "A350-941 XWB Livery",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.ibb.co/6wYz376/Stratus-A350-900.png"
+                        "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/F-JAXA.png"
                     ],
-                    "credits": "Jeffa"
+                    "credits": "AF267"
                 }
             ],
             "labels": [
@@ -210,14 +195,6 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
-                {
-                    "name": "Stratus Airways 777-300ER",
-                    "texture": [
-                        "/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://i.ibb.co/3BF949k/Stratus-777-300-ER.png"
-                    ],
-                    "credits": "Jeffa"
-                }
             ],
             "labels": [
                 "Specular shader",
@@ -378,7 +355,15 @@
         },
         "2899": {
             "name": "Airbus a220-300",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "A220-300",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/G-JATA.png"
+                    ],
+                    "credits": "AF267"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
@@ -502,7 +487,15 @@
         },
         "4646": {
             "name": "Airbus a321neo",
-            "liveries": [],
+            "liveries": "liveries": [
+                {
+                    "name": "Airbus A321-271NX",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/F-JANA.png"
+                    ],
+                    "credits": "AF267"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
@@ -572,11 +565,11 @@
             "name": "Boeing b747-8I",
             "liveries": [
                 {
-                    "name": "Stratus Airways 747-8i",
+                    "name": "747-8i G-ADMN",
                     "texture": [
-                        "https://i.ibb.co/M284wbB/Stratus-747-8i.png"
+                        "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/G-ADMN.png"
                     ],
-                    "credits": "Jeffa"
+                    "credits": "AF267"
                 }
             ],
             "labels": [
