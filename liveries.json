@@ -179,7 +179,7 @@
             "name": "Airbus a350-900",
             "liveries": [
                 {
-                    "name": "A350-941 XWB Livery",
+                    "name": "F-JAXA XWB Livery",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/F-JAXA.png"
@@ -357,7 +357,7 @@
             "name": "Airbus a220-300",
             "liveries": [
                 {
-                    "name": "A220-300",
+                    "name": "Euroarrow London Eye",
                     "texture": [
                         "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/G-JATA.png"
                     ],
@@ -440,7 +440,7 @@
             "name": "Boeing b787-9",
             "liveries": [
                 {
-                    "name": "Boeing 787-9",
+                    "name": "Euroarrow Beverly Hills",
                     "texture": [
                         "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/G-JBDA.png"
                     ],
@@ -490,7 +490,7 @@
             "name": "Airbus a321neo",
             "liveries": [
                 {
-                    "name": "Airbus A321-271NX",
+                    "name": "Euroarrow Notre Dame",
                     "texture": [
                         "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/F-JANA.png"
                     ],
@@ -566,7 +566,7 @@
             "name": "Boeing b747-8I",
             "liveries": [
                 {
-                    "name": "747-8i G-ADMN",
+                    "name": "Euroarrow Empire State",
                     "texture": [
                         "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/G-ADMN.png"
                     ],
