@@ -378,13 +378,6 @@
         "2973": {
             "name": "Airbus a350-1000",
             "liveries": [
-                {
-                    "name": "Stratus Airways A350-1000",
-                    "texture": [
-                        "https://i.ibb.co/42ZZ6MF/Stratus-A350-1000.png"
-                    ],
-                    "credits": "Jeffa"
-                }
             ],
             "labels": [
                 "Texture"
@@ -445,7 +438,15 @@
         },
         "3575": {
             "name": "Boeing b787-9",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "Boeing 787-9",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/G-JBDA.png"
+                    ],
+                    "credits": "AF267"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
