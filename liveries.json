@@ -571,6 +571,13 @@
                         "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/G-ADMN.png"
                     ],
                     "credits": "AF267"
+                },
+                {
+                    "name": "Euroarrow Big Apple Special 747 Livery",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/G-ADMI.png"
+                    ],
+                    "credits": "AF267"
                 }
             ],
             "labels": [
