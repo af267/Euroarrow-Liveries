@@ -1,7 +1,7 @@
 {
     "name": "Euroarrow Airways",
-    "color": "#38CAFF",
-    "bgcolor": "#FF00FF",
+    "color": "#0084E3",
+    "bgcolor": "#FAC9FF",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
