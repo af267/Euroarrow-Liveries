@@ -495,6 +495,13 @@
                         "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/F-JANA.png"
                     ],
                     "credits": "AF267"
+                },
+                {
+                    "name": "Euroarrow Colosseum JRA Retro Livery",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/F-JANC.png"
+                    ],
+                    "credits": "AF267"
                 }
             ],
             "labels": [
