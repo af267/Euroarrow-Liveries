@@ -185,6 +185,14 @@
                         "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/F-JAXA.png"
                     ],
                     "credits": "AF267"
+                },
+                {
+                    "name": "F-JAXC GeoTeam Livery",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/af267/Euroarrow-Liveries/refs/heads/main/F-JAXC.png"
+                    ],
+                    "credits": "AF267"
                 }
             ],
             "labels": [
